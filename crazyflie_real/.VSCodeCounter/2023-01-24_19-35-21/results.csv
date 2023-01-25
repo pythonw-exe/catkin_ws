@@ -1,0 +1,7 @@
+"filename", "language", "XML", "Python", "comment", "blank", "total"
+"/home/luke/WORKSPACE/catkin_ws/src/crazyflie_real/launch/crazyflie_rviz.launch", "XML", 6, 0, 0, 3, 9
+"/home/luke/WORKSPACE/catkin_ws/src/crazyflie_real/package.xml", "XML", 25, 0, 36, 13, 74
+"/home/luke/WORKSPACE/catkin_ws/src/crazyflie_real/src/controller_node.py", "Python", 0, 26, 2, 7, 35
+"/home/luke/WORKSPACE/catkin_ws/src/crazyflie_real/src/crazyflie_node.py", "Python", 0, 89, 16, 31, 136
+"/home/luke/WORKSPACE/catkin_ws/src/crazyflie_real/src/visualization_node.py", "Python", 0, 27, 3, 10, 40
+"Total", "-", 31, 142, 57, 64, 294
